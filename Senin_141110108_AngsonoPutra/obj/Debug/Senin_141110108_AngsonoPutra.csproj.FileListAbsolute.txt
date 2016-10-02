@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\Senin_141110108_AngsonoPutra\bin\Debug\Senin_141110108_AngsonoPutra.exe.config
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\Senin_141110108_AngsonoPutra\bin\Debug\Senin_141110108_AngsonoPutra.exe
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\Senin_141110108_AngsonoPutra\bin\Debug\Senin_141110108_AngsonoPutra.pdb
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\Senin_141110108_AngsonoPutra\obj\Debug\Senin_141110108_AngsonoPutra.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\Senin_141110108_AngsonoPutra\obj\Debug\Senin_141110108_AngsonoPutra.Form1.resources
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\Senin_141110108_AngsonoPutra\obj\Debug\Senin_141110108_AngsonoPutra.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\Senin_141110108_AngsonoPutra\obj\Debug\Senin_141110108_AngsonoPutra.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\Senin_141110108_AngsonoPutra\obj\Debug\Senin_141110108_AngsonoPutra.exe
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\Senin_141110108_AngsonoPutra\obj\Debug\Senin_141110108_AngsonoPutra.pdb

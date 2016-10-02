@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senin_141110108_AngsonoPutra", "Senin_141110108_AngsonoPutra\Senin_141110108_AngsonoPutra.csproj", "{A677466B-3153-46A4-8B89-F3C79CB25824}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan 1.3", "Latihan 1.3\Latihan 1.3.csproj", "{A6BAD13F-2668-4AFC-9FFB-7B9BEA4DC4A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan 1_2", "Latihan 1 2\Latihan 1_2.csproj", "{E4B19048-E78E-4384-BB74-C481DFF00186}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A677466B-3153-46A4-8B89-F3C79CB25824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A677466B-3153-46A4-8B89-F3C79CB25824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A677466B-3153-46A4-8B89-F3C79CB25824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A677466B-3153-46A4-8B89-F3C79CB25824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6BAD13F-2668-4AFC-9FFB-7B9BEA4DC4A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6BAD13F-2668-4AFC-9FFB-7B9BEA4DC4A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6BAD13F-2668-4AFC-9FFB-7B9BEA4DC4A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6BAD13F-2668-4AFC-9FFB-7B9BEA4DC4A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4B19048-E78E-4384-BB74-C481DFF00186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4B19048-E78E-4384-BB74-C481DFF00186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4B19048-E78E-4384-BB74-C481DFF00186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4B19048-E78E-4384-BB74-C481DFF00186}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

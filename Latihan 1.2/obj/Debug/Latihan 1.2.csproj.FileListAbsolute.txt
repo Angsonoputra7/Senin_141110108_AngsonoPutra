@@ -1,0 +1,4 @@
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\Latihan 1.2\bin\Debug\Latihan 1.2.exe.config
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\Latihan 1.2\obj\Debug\latihan_1._2.Form1.resources
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\Latihan 1.2\obj\Debug\Latihan_1._2.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\Latihan 1.2\obj\Debug\Latihan 1.2.csproj.GenerateResource.Cache

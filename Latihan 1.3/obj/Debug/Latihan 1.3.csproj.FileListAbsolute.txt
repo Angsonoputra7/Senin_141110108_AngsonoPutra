@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\Latihan 1.3\bin\Debug\Latihan 1.3.exe.config
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\Latihan 1.3\bin\Debug\Latihan 1.3.exe
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\Latihan 1.3\bin\Debug\Latihan 1.3.pdb
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\Latihan 1.3\obj\Debug\Latihan_1._3.Form1.resources
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\Latihan 1.3\obj\Debug\Latihan_1._3.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\Latihan 1.3\obj\Debug\Latihan 1.3.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\Latihan 1.3\obj\Debug\Latihan 1.3.exe
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\Latihan 1.3\obj\Debug\Latihan 1.3.pdb
