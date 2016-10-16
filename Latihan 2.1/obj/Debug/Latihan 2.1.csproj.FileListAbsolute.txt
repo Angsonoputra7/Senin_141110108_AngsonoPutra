@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\LAtiham 2.1\bin\Debug\LAtiham 2.1.exe.config
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\LAtiham 2.1\obj\Debug\Latihan 2.1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\LAtiham 2.1\obj\Debug\LAtiham_2._1.Form1.resources
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\LAtiham 2.1\obj\Debug\LAtiham_2._1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\LAtiham 2.1\obj\Debug\Latihan 2.1.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\LAtiham 2.1\bin\Debug\LAtiham 2.1.exe
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\LAtiham 2.1\bin\Debug\LAtiham 2.1.pdb
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\LAtiham 2.1\obj\Debug\LAtiham 2.1.exe
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\LAtiham 2.1\obj\Debug\LAtiham 2.1.pdb
