@@ -6,3 +6,4 @@ C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\Latihan 3.1\obj\Debug\Latihan
 C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\Latihan 3.1\obj\Debug\Latihan 3.1.csproj.GenerateResource.Cache
 C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\Latihan 3.1\obj\Debug\Latihan 3.1.exe
 C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\Latihan 3.1\obj\Debug\Latihan 3.1.pdb
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\Latihan 3.1\obj\Debug\Latihan 3.1.csprojResolveAssemblyReference.cache
