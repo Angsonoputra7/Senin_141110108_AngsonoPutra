@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\ProblemVollyball1\bin\Debug\ProblemVollyball1.exe.config
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\ProblemVollyball1\obj\Debug\ProblemVollyball1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\ProblemVollyball1\obj\Debug\ProblemVollyball1.Form1.resources
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\ProblemVollyball1\obj\Debug\ProblemVollyball1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\ProblemVollyball1\obj\Debug\ProblemVollyball1.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\ProblemVollyball1\bin\Debug\ProblemVollyball1.exe
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\ProblemVollyball1\bin\Debug\ProblemVollyball1.pdb
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\ProblemVollyball1\obj\Debug\ProblemVollyball1.exe
+C:\Users\ASUS\Desktop\Senin_141110108_AngsonoPutra\ProblemVollyball1\obj\Debug\ProblemVollyball1.pdb
